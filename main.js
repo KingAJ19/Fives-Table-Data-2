@@ -42,28 +42,28 @@ var myArray = [
         'name': 'Nathan', 'goals': '0', 'assists': '0', 'position': 'ST'
     },
     {
-        'name': 'Latham', 'goals': '10', 'assists': '3', 'position': 'RW'
+        'name': 'Latham', 'goals': '0', 'assists': '0', 'position': 'RW'
     },
     {
-        'name': 'Kirwan', 'goals': '2', 'assists': '1', 'position': 'ST'
+        'name': 'Kirwan', 'goals': '0', 'assists': '0', 'position': 'ST'
     },
     {
-        'name': 'Cullen', 'goals': '2', 'assists': '4', 'position': 'MID'
+        'name': 'Cullen', 'goals': '0', 'assists': '0', 'position': 'MID'
     },
     {
         'name': 'Luke', 'goals': '0', 'assists': '0', 'position': 'DEF'
     },
     {
-        'name': 'Matthew S', 'goals': '1', 'assists': '1', 'position': 'DEF'
+        'name': 'Matthew S', 'goals': '0', 'assists': '0', 'position': 'DEF'
     },
     {
-        'name': 'Anele', 'goals': '1', 'assists': '0', 'position': 'GK'
+        'name': 'Anele', 'goals': '0', 'assists': '0', 'position': 'GK'
     },
     {
-        'name': 'Dillon', 'goals': '0', 'assists': '2', 'position': 'DEF'
+        'name': 'Dillon', 'goals': '0', 'assists': '0', 'position': 'DEF'
     },
     {
-        'name': 'Lyndon', 'goals': '5', 'assists': '6', 'position': 'DEF'
+        'name': 'Lyndon', 'goals': '0', 'assists': '0', 'position': 'DEF'
     },
     {
         'name': 'Leighton', 'goals': '15', 'assists': '6', 'position': 'LW'
