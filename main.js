@@ -3,43 +3,43 @@ var myArray = [
         'name': 'Calvin', 'goals': '0', 'assists': '0', 'position': 'GK'
     },
     {
-        'name': 'Mo', 'goals': '1', 'assists': '1', 'position': 'ST'
+        'name': 'Mo', 'goals': '0', 'assists': '0', 'position': 'ST'
     },
     {
-        'name': 'Jodi', 'goals': '1', 'assists': '1', 'position': 'MID'
+        'name': 'Jodi', 'goals': '0', 'assists': '0', 'position': 'MID'
     },
     {
         'name': 'Diego', 'goals': '0', 'assists': '0', 'position': 'MID'
     },
     {
-        'name': 'Elan', 'goals': '5', 'assists': '1', 'position': 'ST'
+        'name': 'Elan', 'goals': '0', 'assists': '0', 'position': 'ST'
     },
     {
-        'name': 'Jesse', 'goals': '12', 'assists': '9', 'position': 'MID'
+        'name': 'Jesse', 'goals': '0', 'assists': '0', 'position': 'MID'
     },
     {
-        'name': 'Matthew', 'goals': '1', 'assists': '3', 'position': 'DEF'
+        'name': 'Matthew', 'goals': '0', 'assists': '0', 'position': 'DEF'
     },
     {
-        'name': 'Rynell', 'goals': '19', 'assists': '1', 'position': 'ST'
+        'name': 'Rynell', 'goals': '0', 'assists': '0', 'position': 'ST'
     },
     {
-        'name': 'Tumi', 'goals': '12', 'assists': '5', 'position': 'MID'
+        'name': 'Tumi', 'goals': '0', 'assists': '0', 'position': 'MID'
     },
     {
-        'name': 'Basla', 'goals': '7', 'assists': '3', 'position': 'MID'
+        'name': 'Basla', 'goals': '0', 'assists': '0', 'position': 'MID'
     },
     {
         'name': 'Ethan', 'goals': '0', 'assists': '0', 'position': 'RW'
     },
     {
-        'name': 'Jordan', 'goals': '6', 'assists': '2', 'position': 'RW'
+        'name': 'Jordan', 'goals': '0', 'assists': '0', 'position': 'RW'
     },
     {
-        'name': 'Nahum', 'goals': '0', 'assists': '1', 'position': 'DEF'
+        'name': 'Nahum', 'goals': '0', 'assists': '0', 'position': 'DEF'
     },
     {
-        'name': 'Nathan', 'goals': '1', 'assists': '0', 'position': 'ST'
+        'name': 'Nathan', 'goals': '0', 'assists': '0', 'position': 'ST'
     },
     {
         'name': 'Latham', 'goals': '10', 'assists': '3', 'position': 'RW'
