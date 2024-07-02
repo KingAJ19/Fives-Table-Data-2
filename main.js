@@ -12,7 +12,7 @@ var myArray = [
         'name': 'Diego', 'goals': '1', 'assists': '0', 'position': 'MID'
     },
     {
-        'name': 'Elan', 'goals': '1', 'assists': '0', 'position': 'ST'
+        'name': 'Elan', 'goals': '2', 'assists': '0', 'position': 'ST'
     },
     {
         'name': 'Jesse', 'goals': '2', 'assists': '0', 'position': 'MID'
