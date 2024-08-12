@@ -1,6 +1,6 @@
 var myArray = [
     {
-        'name': 'Calvin', 'goals': '0', 'assists': '1', 'position': 'GK'
+        'name': 'Calvin', 'goals': '0', 'assists': '2', 'position': 'GK'
     },
     {
         'name': 'Mo', 'goals': '0', 'assists': '0', 'position': 'ST'
@@ -12,28 +12,28 @@ var myArray = [
         'name': 'Diego', 'goals': '1', 'assists': '0', 'position': 'MID'
     },
     {
-        'name': 'Elan', 'goals': '4', 'assists': '0', 'position': 'ST'
+        'name': 'Elan', 'goals': '8', 'assists': '0', 'position': 'ST'
     },
     {
-        'name': 'Jesse', 'goals': '2', 'assists': '1', 'position': 'MID'
+        'name': 'Jesse', 'goals': '3', 'assists': '1', 'position': 'MID'
     },
     {
         'name': 'Matthew', 'goals': '0', 'assists': '0', 'position': 'DEF'
     },
     {
-        'name': 'Rynell', 'goals': '5', 'assists': '0', 'position': 'ST'
+        'name': 'Rynell', 'goals': '10', 'assists': '0', 'position': 'ST'
     },
     {
         'name': 'Tumi', 'goals': '0', 'assists': '0', 'position': 'MID'
     },
     {
-        'name': 'Basla', 'goals': '0', 'assists': '1', 'position': 'MID'
+        'name': 'Basla', 'goals': '1', 'assists': '1', 'position': 'MID'
     },
     {
         'name': 'Ethan', 'goals': '0', 'assists': '0', 'position': 'RW'
     },
     {
-        'name': 'Jordan', 'goals': '2', 'assists': '0', 'position': 'RW'
+        'name': 'Jordan', 'goals': '6', 'assists': '0', 'position': 'RW'
     },
     {
         'name': 'Nahum', 'goals': '0', 'assists': '0', 'position': 'DEF'
@@ -63,7 +63,7 @@ var myArray = [
         'name': 'Dillon', 'goals': '0', 'assists': '0', 'position': 'DEF'
     },
     {
-        'name': 'Lyndon', 'goals': '2', 'assists': '2', 'position': 'DEF'
+        'name': 'Lyndon', 'goals': '3', 'assists': '2', 'position': 'DEF'
     },
     {
         'name': 'Leighton', 'goals': '3', 'assists': '0', 'position': 'LW'
